@@ -507,9 +507,43 @@ h6,
   color: white;
 }
 .fa-linkedin {
-  color: #0077b5; 
+  color: #0077b5;
   font-size: 24px;
 }
+
+
+/* Game of Life Section */
+#game-of-life-section {
+  text-align: center;
+  padding: 100px 0;
+  background-color: #f0f0f0;
+}
+
+#game-of-life-section h1 {
+  font-size: 36px;
+  color: #333;
+}
+
+#game-of-life-section h2 {
+  font-size: 24px;
+  color: #555;
+}
+
+#game-of-life-section p {
+  font-size: 16px;
+  color: #777;
+}
+
+/* Game Canvas */
+#gameCanvas {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  margin: 0 auto;
+  width: 80%;
+  max-width: 600px;
+}
+
+
 /* ************************************************************************************* */
 .lead {
   font-size: 1.25rem;
